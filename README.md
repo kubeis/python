@@ -1,2 +1,2 @@
-# python
-Hand-hand training session on Python
+# Python Training course
+Hand-on training session on Python
